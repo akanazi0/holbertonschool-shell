@@ -20,4 +20,4 @@ This repository contains Bash scripts written for the **init_files_variables_and
 * **13-print_float** - Prints a number with two decimal places.
 * **14-decimal_to_hexadecimal** - Converts a number from decimal to hexadecimal.
 
-The Rest is Advanced 
+The Rest is Advanced Tasks
